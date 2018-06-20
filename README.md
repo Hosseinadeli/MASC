@@ -1,4 +1,4 @@
-# MASC
+# MASC (Model of Attention in Superior Colliculus)
 
 MASC free viewing toolbox 
 
